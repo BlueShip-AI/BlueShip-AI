@@ -15,4 +15,4 @@ Design principles baked into the pipeline:
 Single-file, dependency-free HTML dashboards demonstrating institutional fixed-income methodology — bond math (YTM, duration, convexity, DV01, key-rate durations), multi-strategy stress testing with regime-conditional correlations, cross-capital-structure analysis, and probability-distribution-based signal integration. **All dashboard market data is simulated for demonstration.**
 
 ## Interests
-OTC credit market microstructure, probabilistic pricing (full-distribution signals over point estimates), prediction-market calibration, and event-driven research on SEC EDGAR data.
+Systematic equity and credit research, prediction-market calibration, and event-driven research on SEC EDGAR data.
