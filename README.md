@@ -11,6 +11,9 @@ Design principles baked into the pipeline:
 - **Self-verifying runs** — z-score canaries, look-ahead canaries, dollar-neutrality identities checked before any result is trusted.
 - **Documented bias** — the equity universe is survivorship-biased and every report says so.
 
+## Open-source: quant-validation-harness
+**[github.com/BlueShip-AI/quant-validation-harness](https://github.com/BlueShip-AI/quant-validation-harness)** — the museum's statistical gates, inspectable: Newey-West significance, block-bootstrap Sharpe distributions, IS/OOS degradation checks, Grinold-Kahn calibration, a full 216-variant walk-forward tuning study, and a Heston stochastic-vol lab with a neural surface approximator (0.23 vol pts, ~45,000x calibration speedup). MIT.
+
 ## Fixed-income analytics
 Single-file, dependency-free HTML dashboards demonstrating institutional fixed-income methodology — bond math (YTM, duration, convexity, DV01, key-rate durations), multi-strategy stress testing with regime-conditional correlations, cross-capital-structure analysis, and probability-distribution-based signal integration. **All dashboard market data is simulated for demonstration.**
 
