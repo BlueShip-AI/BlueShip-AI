@@ -2,8 +2,8 @@
 
 Systematic research engineering: autonomous alpha research pipelines and fixed-income analytics.
 
-## Flagship: The Anomaly Graveyard
-**[blueship-ai.github.io/anomaly-graveyard](https://blueship-ai.github.io/anomaly-graveyard/)** — a live, nightly-updated public record of published trading strategies tested with institutional rigor by an autonomous six-stage research pipeline (idea extraction from new arXiv papers → feature engineering → 20-year costed backtests → Newey-West / 10,000-draw bootstrap / out-of-sample validation → HMM regime audit → six-factor decomposition). Every verdict ships with the rejection reason and the dollars-honest outcome versus an index benchmark. The pipeline runs autonomously every night; verdicts publish on a 3-day lag.
+## Flagship: The Risk Museum
+**[blueship-ai.github.io/the-risk-museum](https://blueship-ai.github.io/the-risk-museum/)** — a live, nightly-updated public record of published trading strategies tested with institutional rigor by an autonomous six-stage research pipeline (idea extraction from new arXiv papers → feature engineering → 20-year costed backtests → Newey-West / 10,000-draw bootstrap / out-of-sample validation → HMM regime audit → six-factor decomposition). Every verdict ships with the rejection reason and the dollars-honest outcome versus an index benchmark. The pipeline runs autonomously every night; verdicts publish on a 3-day lag.
 
 Design principles baked into the pipeline:
 - **Maker–checker separation** — the agent that generates a hypothesis never judges it.
